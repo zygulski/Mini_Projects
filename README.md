@@ -10,8 +10,7 @@ Welcome to my collection of simple yet functional mini-projects built using **HT
 - Choose between **Green, Red, and Blue** buttons.
 - Click the **Random** button for a surprise background color.
 - Simple and interactive UI.
-
-📌 **Try it out:** [Live Demo](#)  
+ 
 
 ---
 
@@ -21,8 +20,7 @@ Welcome to my collection of simple yet functional mini-projects built using **HT
 - Input any text and check if it’s a **Palindrome**.
 - Alerts the result instantly.
 - Great for quick word testing!
-
-📌 **Try it out:** [Live Demo](#)  
+ 
 
 ---
 
@@ -32,8 +30,7 @@ Welcome to my collection of simple yet functional mini-projects built using **HT
 - A **collection of inspirational quotes** displayed randomly.
 - Ensures no immediate repetition of quotes.
 - Simple, clean interface.
-
-📌 **Try it out:** [Live Demo](#)  
+ 
 
 ---
 
@@ -44,7 +41,6 @@ Welcome to my collection of simple yet functional mini-projects built using **HT
 - Displays time in **MM:SS** format.
 - Perfect for basic timing needs.
 
-📌 **Try it out:** [Live Demo](#)  
 
 ---
 ## 📂 How to Use
