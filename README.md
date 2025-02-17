@@ -46,4 +46,4 @@ Welcome to my collection of simple yet functional mini-projects built using **HT
 ## 📂 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/zygulski/mini-projects.git
+   git clone https://github.com/zygulski/Mini_Projects.git
